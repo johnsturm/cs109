@@ -1,4 +1,3 @@
-
 require 'kickscraper'
 
 Kickscraper.configure do |config|
