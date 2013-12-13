@@ -1,1 +1,0 @@
-"http://www.kickspy.com/projects/find?Keywords=&Settings.ExpandStatus=true&AnyStatus=true&AllCategories=true&Settings.ExpandDates=true&StartedAfter=" + year + "%2F" + month + "%2F" + day + "&StartedBefore=" + year + "%2F" + month + "%2F" + day + "&SortBy=0"
